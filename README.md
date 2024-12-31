@@ -2,6 +2,32 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile👋;I'm+FRn13ds+You+Are+Welcome!)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,discord,linux,redhat)](https://skillicons.dev)
 <a href ="Frn13ds">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>

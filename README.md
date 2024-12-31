@@ -3,6 +3,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=monospace&color=red&center=true&lines=Welcome+to+my+github+profile👋;I'm+FRn13ds+You+Are+Welcome!)](https://git.io/typing-svg)
 
+<div "align:center">
+<h2>👽Welcome I'm @FRn13ds👽</h2>
+
+  
+🔭 I'm currently Learning Networking
+
+📩 I'm working on **a Phishing Tool**
+
+
+📝 For Feedback and reportes you can click <a href="https://frn13ds.github.io/Tools_feedback/">Here</a>
+
+
+🗣 For contact click <a href ="https://frn13ds.github.io/ContactMe/">Here</a>
+</div>
 
 
 
@@ -22,12 +36,9 @@
 
 
 
-
-
-
-
-
+<div style="text-align:center;">
 [![My Skills](https://skillicons.dev/icons?i=py,discord,linux,redhat)](https://skillicons.dev)
+</div>
 <div style="position:absolute;top:500px">
 <a href ="Frn13ds">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />

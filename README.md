@@ -28,6 +28,7 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,discord,linux,redhat)](https://skillicons.dev)
+<div style="position:absolute;top:500px">
 <a href ="Frn13ds">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
@@ -49,3 +50,4 @@
 <a href="#">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
+</div>

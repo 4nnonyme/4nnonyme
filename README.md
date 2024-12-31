@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>  
 </div>
-<h3 style="color:blue;">Most language used and skilled in 😎</h3>
+<h3 style="color:blue;">i'm skilled in 😎</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,py" />

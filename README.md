@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile👋;I'm+FRn13ds+You+Are+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=monospace&color=red&center=true&lines=Welcome+to+my+github+profile👋;I'm+FRn13ds+You+Are+Welcome!)](https://git.io/typing-svg)
 
 
 

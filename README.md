@@ -22,7 +22,7 @@
 
 
 
-
+<div>[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,linux)](https://skillicons.dev)</div>
 <div style="position:absolute;top:500px">
 <a href ="Frn13ds">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
@@ -46,4 +46,3 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 </div>
-[![My Skills](https://skillicons.dev/icons?i=linux,py,html,css,js)](https://skillicons.dev)

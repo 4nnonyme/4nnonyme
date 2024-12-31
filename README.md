@@ -46,4 +46,4 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 </div>
-[![My Skills](https://skillicons.dev/icons?i=py,discord,linux,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,html,css,js)](https://skillicons.dev)

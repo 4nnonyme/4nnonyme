@@ -47,4 +47,8 @@
 </a>  
 </div>
 <h3 style="color:blue;">Most language used and skilled in 😎</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,py" />
+  </a>
+</p>

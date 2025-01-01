@@ -20,7 +20,7 @@
 
 
 
-<h3 style="color:red;">I use 😁</h3>
+<h2 style="color:red;text-align:center;">I use 😁</h2>
 
 
 <div style="position:absolute;top:500px">
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>  
 </div>
-<h3 style="color:blue;">i'm skilled in 😎</h3>
+<h2 style="color:blue;text-align:center;">i'm skilled in 😎</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,py" />
